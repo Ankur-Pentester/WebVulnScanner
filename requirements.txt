@@ -1,0 +1,4 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-nmap==0.7.1
+aiohttp==3.8.5
